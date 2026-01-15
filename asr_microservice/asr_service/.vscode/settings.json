@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/jessesukaegbu/asr_microservice/asr_venv/lib/python3.12/site-packages"
+    ],
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportMissingModuleSource": "none"
+    },
+    "python.pythonPath": "/home/jessesukaegbu/asr_microservice/asr_venv/bin/python3"
+}
