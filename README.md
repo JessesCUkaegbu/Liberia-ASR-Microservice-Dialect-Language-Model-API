@@ -40,7 +40,7 @@ pip install faster-whisper flask pyngrok soundfile
 
 Generate the requirements.txt file
 
-pip -r install requirements.txt
+pip install -r requirements.txt
 
 Running the Server
 python app.py
